@@ -1,1 +1,1 @@
-# Daigram
+# Diagram
